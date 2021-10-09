@@ -8,4 +8,4 @@
 开源: [ClipboardFilter](https://github.com/Thiasap/ClipboardFilter)
 
 ## 下载
-[Release](https://github.com/Xposed-Modules-Repo/com.bit747.smobajump/releases)
+[Release](https://github.com/Xposed-Modules-Repo/com.bit747.clipboardfilter/releases)
